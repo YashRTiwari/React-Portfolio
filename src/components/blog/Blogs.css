@@ -1,0 +1,11 @@
+.Blogs {
+  width: inherit;
+  height: 800px;
+  padding: 10px 20px;
+}
+
+.blog-items {
+  display: flex;
+  justify-content: start;
+  margin: 0px 10px;
+}

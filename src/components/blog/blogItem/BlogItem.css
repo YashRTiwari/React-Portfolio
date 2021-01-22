@@ -1,0 +1,13 @@
+.BlogItem {
+  max-width: 33%;
+  margin: 8px 20px;
+  cursor: pointer;
+}
+
+.blog-header {
+  padding: 8px;
+}
+
+.blog-content {
+  padding: 0px 8px;
+}

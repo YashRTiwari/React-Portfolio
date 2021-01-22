@@ -1,0 +1,6 @@
+.Socials {
+  width: 300px;
+  display: flex;
+  justify-content: space-evenly;
+  margin: 20px 0px;
+}
